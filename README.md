@@ -22,4 +22,4 @@ Click **Open in Colab** badge above - No download needed!
 
 Roll No: 160125737012 & 160125737019 | CBIT IT-1 | EDAV 2026
 
-💼 Open to Data Analyst Internships!
+👩‍🎓 Aspiring Data Analyst 
